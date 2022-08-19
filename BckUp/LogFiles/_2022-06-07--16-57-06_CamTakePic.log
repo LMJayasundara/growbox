@@ -1,0 +1,6 @@
+2022-06-07 16:57:06,451:INFO    :0067:__main__:Starting the Script
+2022-06-07 16:57:14,924:ERROR   :0370:__main__:Uploading log file error
+2022-06-07 16:57:14,925:ERROR   :0371:__main__:An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.
+2022-06-07 16:57:21,088:ERROR   :0383:__main__:uploading pic error
+2022-06-07 16:57:21,089:ERROR   :0384:__main__:An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.
+2022-06-07 16:57:21,091:INFO    :0423:__main__:Finished Uploading

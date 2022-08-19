@@ -1,0 +1,18 @@
+list usb devices
+	lsusb
+
+list video port
+	v4l2-ctl --list-devices
+
+list cam suport resolution
+	v4l2-ctl --list-formats-ext
+
+capture image
+	fswebcam -r 800x600 --no-banner --device /dev/video2  ~/Desktop/image4.jpg
+
+
+link
+	https://raspberrypi-guide.github.io/electronics/using-usb-webcams
+	https://www.instructables.com/How-to-Make-Raspberry-Pi-Webcam-Server-and-Stream-/
+
+
